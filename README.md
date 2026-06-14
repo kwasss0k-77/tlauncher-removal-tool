@@ -1,3 +1,6 @@
+<img width="327" height="142" alt="изображение" src="https://github.com/user-attachments/assets/a3c49ba3-32cf-4039-b809-c74d0feb0321" />
+
+
 # en-US 🇺🇸
 ## 👀 What is TRT?
 TLauncher Removal Tool (TRT) — A PC cleanup tool for getting rid of TLauncher, lol. This is a batch-based (cmd) program that comes with two modes designed to work together: Full Delete Mode, which completely wipes all TL files from your PC, and Uninstall Mode, which just opens the folder with TL's built-in uninstaller. Honestly, if you want a clean slate, that stock uninstaller barely deletes like 3 GB of metadata. Feel free to use my tool for learning or tweak it however you like! If you have any tips or feedback, hit me up (link below).
